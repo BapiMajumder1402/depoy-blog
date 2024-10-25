@@ -22,12 +22,6 @@
       "CORS": "*",
       "ACCESS_TOKEN_EXPIRY": "7d",
       "ACCESS_TOKEN_SECRET": "7ae2d60d49c8b97f072098762aed45c08e9795d0677b097d6e8f6496e40f1b8a3f5b9e37a6e4d7f92412ab3fce2d60c08e921c42ba02b9577b097d6e8f8d76fd7"
-    },
-    "functions": {
-      "api/*.js": {
-        "memory": 1024,
-        "maxDuration": 10
-      }
     }
   }
   
